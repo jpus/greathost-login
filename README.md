@@ -1,13 +1,12 @@
 # GreatHost 自动续期状态
 
-🎉 **GreatHost 续期成功**
+🚨 **GreatHost 脚本报错**
 
 📛 服务器名称: haoshi0216
-🆔 ID: `63b3c2f1-5456-40ae-8f58-94bbd4d24b61`
-⏰ 增加时间: 65 ➔ 77h
-🚀 服务器状态: 🟢 Running
-💡 提示: Servidor gratuito renovado correctamente
-🌐 落地 IP: `48.211.213.35`
-📅 时间: 2026/05/04 14:31:54
+❌ 故障: `Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=147.0.7727.137)
+Stacktrac`
+🌐 代理状态: 已尝试直连
+📅 时间: 2026/05/05 14:08:10
 
-> 最近更新: 2026/05/04 14:31:55
+> 最近更新: 2026/05/05 14:08:11
