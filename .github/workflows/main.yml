@@ -2,7 +2,7 @@ name: Greathost-AutoRenew
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 每天12时运行一次
+    - cron: '0 */8 * * *'  # 每8小时运行一次
   workflow_dispatch:        # 允许手动运行
 
 jobs:
