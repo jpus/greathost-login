@@ -1,13 +1,13 @@
 # GreatHost 自动续期状态
 
-🎉 **GreatHost 续期成功**
+🈵 **GreatHost 已达上限**
 
 📛 服务器名称: haoshi0216
 🆔 ID: `63b3c2f1-5456-40ae-8f58-94bbd4d24b61`
-⏰ 增加时间: 102 ➔ 114h
+⏰ 剩余时间: 108h
 🚀 服务器状态: 🟢 Running
-💡 提示: Servidor gratuito renovado correctamente
-🌐 落地 IP: `172.184.210.49`
-📅 时间: 2026/06/28 18:32:18
+💡 提示: No puedes renovar más de 5 días acumulados
+🌐 落地 IP: `172.183.131.66`
+📅 时间: 2026/06/29 01:20:54
 
-> 最近更新: 2026/06/28 18:32:18
+> 最近更新: 2026/06/29 01:20:55
